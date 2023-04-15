@@ -2,3 +2,4 @@
 
 | leke |
 | :----: |
+| [乐课勤学分-wza-$(date +"%Y-%m-%d_%H-%M-%S").log](./乐课勤学分-wza-$(date +"%Y-%m-%d_%H-%M-%S").log) |
