@@ -2,8 +2,7 @@
 
 ### 使用
 
-' ' '
-
+```
               export CURRENT_TIME=_修改_这里_$(date +"%Y-%m-%d_%H-%M-%S")
               __修改__这里__ | tee >> "${CURRENT_TIME}.log"
               git clone https://github.com/wang-task/logs.git
@@ -21,5 +20,11 @@
         branch: main
         repository: 'wang-task/logs'
         directory: './logs'
+```
 
-' ' '
+ 修改时区
+ 
+ ``` 
+env:
+  TZ: Asia/Shanghai
+```
