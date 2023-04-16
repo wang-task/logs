@@ -1,0 +1,4 @@
+### BiliBiliToolPro-daily
+
+| BiliBiliToolPro-daily |
+| :----: |

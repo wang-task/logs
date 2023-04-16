@@ -2,3 +2,6 @@
 
 | BiliBiliToolPro |
 | :----: |
+| [daily](./daily) |
+| [livefansmedal](./livefansmedal) |
+
