@@ -4,7 +4,11 @@
 
 ```
               export CURRENT_TIME=_修改_这里_$(date +"%Y-%m-%d_%H-%M-%S")
+              echo "----------- ip 信息 ---------" >> "${CURRENT_TIME}.log"
+              sudo curl -s https://ipinfo.io/ | tee -a "${CURRENT_TIME}.log"
+              echo " \n---------- end ------------" >> "${CURRENT_TIME}.log"
               __修改__这里__ | tee >> "${CURRENT_TIME}.log"
+              rm -rf ./logs
               git clone https://github.com/wang-task/logs.git
               mv ./"${CURRENT_TIME}.log" ./logs/__修改__
               echo "| [${CURRENT_TIME}.log](./${CURRENT_TIME}.log) |" >> ./logs/__这里__/index.md
@@ -28,3 +32,10 @@
 env:
   TZ: Asia/Shanghai
 ```
+
+使用warp 
+
+
+ ``` 
+- uses: wang-task/cloudflare-warp-actions@main
+ ``` 
