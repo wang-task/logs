@@ -1,0 +1,101 @@
+----------- ip 信息 ---------
+{
+  "ip": "13.87.244.152",
+  "city": "San Jose",
+  "region": "California",
+  "country": "US",
+  "loc": "37.3394,-121.8950",
+  "org": "AS8075 Microsoft Corporation",
+  "postal": "95103",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+} ---------- end ------------
+预习激励/休息一下
+{"success":true,"message":"操作成功","code":null,"ticket":null,"jsessionid":null,"datas":{"incentives":[],"content":"<img src=\"https://file.leke.cn/default/2021-12-10/LW/Y7KT/FWENFVPLMSRVLERQIHJDYQG73INFO9.jpg?t=1639224672728?t=1639214105911?t=1639129576165\" />"},"currentTime":1682458792527}
+预习激励/休息一下
+{"success":true,"message":"操作成功","code":null,"ticket":null,"jsessionid":null,"datas":{"incentives":[],"content":"<img src=\"https://file.leke.cn/default/2021-12-10/LW/Y7KT/FWENFVPLMSRVLERQIHJDYQG73INFO9.jpg?t=1639224672728?t=1639214105911?t=1639129576165\" />"},"currentTime":1682458794778}
+预习激励/休息一下
+{"success":true,"message":"操作成功","code":null,"ticket":null,"jsessionid":null,"datas":{"incentives":[],"content":"<img src=\"https://file.leke.cn/default/2021-12-10/LW/Y7KT/FWENFVPLMSRVLERQIHJDYQG73INFO9.jpg?t=1639224672728?t=1639214105911?t=1639129576165\" />"},"currentTime":1682458797029}
+预习激励/休息一下
+{"success":true,"message":"操作成功","code":null,"ticket":null,"jsessionid":null,"datas":{"incentives":[],"content":"<img src=\"https://file.leke.cn/default/2021-12-10/LW/Y7KT/FWENFVPLMSRVLERQIHJDYQG73INFO9.jpg?t=1639224672728?t=1639214105911?t=1639129576165\" />"},"currentTime":1682458799231}
+预习激励/休息一下
+{"success":true,"message":"操作成功","code":null,"ticket":null,"jsessionid":null,"datas":{"incentives":[],"content":"<img src=\"https://file.leke.cn/default/2021-12-10/LW/Y7KT/FWENFVPLMSRVLERQIHJDYQG73INFO9.jpg?t=1639224672728?t=1639214105911?t=1639129576165\" />"},"currentTime":1682458801451}
+预习激励/休息一下
+{"success":true,"message":"操作成功","code":null,"ticket":null,"jsessionid":null,"datas":{"incentives":[],"content":"<img src=\"https://file.leke.cn/default/2021-12-10/LW/Y7KT/FWENFVPLMSRVLERQIHJDYQG73INFO9.jpg?t=1639224672728?t=1639214105911?t=1639129576165\" />"},"currentTime":1682458803655}
+预习激励/休息一下
+{"success":true,"message":"操作成功","code":null,"ticket":null,"jsessionid":null,"datas":{"incentives":[],"content":"<img src=\"https://file.leke.cn/default/2021-12-10/LW/Y7KT/FWENFVPLMSRVLERQIHJDYQG73INFO9.jpg?t=1639224672728?t=1639214105911?t=1639129576165\" />"},"currentTime":1682458805861}
+预习激励/休息一下
+{"success":true,"message":"操作成功","code":null,"ticket":null,"jsessionid":null,"datas":{"incentives":[],"content":"<img src=\"https://file.leke.cn/default/2021-12-10/LW/Y7KT/FWENFVPLMSRVLERQIHJDYQG73INFO9.jpg?t=1639224672728?t=1639214105911?t=1639129576165\" />"},"currentTime":1682458808111}
+预习激励/休息一下
+{"success":true,"message":"操作成功","code":null,"ticket":null,"jsessionid":null,"datas":{"incentives":[],"content":"<img src=\"https://file.leke.cn/default/2021-12-10/LW/Y7KT/FWENFVPLMSRVLERQIHJDYQG73INFO9.jpg?t=1639224672728?t=1639214105911?t=1639129576165\" />"},"currentTime":1682458810316}
+预习激励/休息一下
+{"success":true,"message":"操作成功","code":null,"ticket":null,"jsessionid":null,"datas":{"incentives":[],"content":"<img src=\"https://file.leke.cn/default/2021-12-10/LW/Y7KT/FWENFVPLMSRVLERQIHJDYQG73INFO9.jpg?t=1639224672728?t=1639214105911?t=1639129576165\" />"},"currentTime":1682458812567}
+<strong> <span style="font-size:32.0px;color:#00D5FF;"> <em><span style="color:#000000;">Hi,lxz(超级管理员) 早上好！</span></em></span></strong></p><p><strong> <span style="font-size:24.0px;color:#00D5FF;"> <em><span style="color:#000000;">天气预报</span></em></span></strong></p><p>当前体感温度:15℃    当前相对湿度:90     当前温度:15℃    <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>日期</th>
+      <th>星期</th>
+      <th>白天天气</th>
+      <th>晚上天气</th>
+      <th>最高温度(℃)</th>
+      <th>最低温度(℃)</th>
+      <th>白天风力</th>
+      <th>晚上风力</th>
+      <th>白天风向</th>
+      <th>晚上风向</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>2023-04-26</td>
+      <td>星期三</td>
+      <td>多云</td>
+      <td>多云</td>
+      <td>24</td>
+      <td>17</td>
+      <td>&lt;3级</td>
+      <td>&lt;3级</td>
+      <td>静风</td>
+      <td>静风</td>
+    </tr>
+    <tr>
+      <td>2023-04-27</td>
+      <td>星期四</td>
+      <td>多云</td>
+      <td>阵雨</td>
+      <td>26</td>
+      <td>21</td>
+      <td>3~4级</td>
+      <td>&lt;3级</td>
+      <td>东北风</td>
+      <td>静风</td>
+    </tr>
+    <tr>
+      <td>2023-04-28</td>
+      <td>星期五</td>
+      <td>阵雨</td>
+      <td>雷阵雨</td>
+      <td>27</td>
+      <td>22</td>
+      <td>&lt;3级</td>
+      <td>&lt;3级</td>
+      <td>静风</td>
+      <td>静风</td>
+    </tr>
+  </tbody>
+</table></p><p></p><p><strong> <span style="font-size:24.0px;color:#00D5FF;"> <em><span style="color:#000000;">今日热点</span></em></span></strong></p><p> 
+     0 :  中国文旅市场逐渐升温 </p><p>
+     1 :  看电影拍照发朋友圈算盗摄吗 </p><p>
+     2 :  当事人回应吐槽软卧3男1女被批 </p><p>
+     3 :  弘扬文明旅游新风尚 </p><p>
+     4 :  刘畊宏回应学生等待被鸽 </p><p>
+     5 :  涉抄袭美院教师作品售价达10万美金 
+ </p><p><strong> <span style="font-size:24.0px;color:#00D5FF;"> <em><span style="color:#000000;">一言</span></em></span></strong></p><p>All for one，one for all.</p><p><p style="text-align:right;">----海贼王(动画)</p><p></p><p><p style="text-align:right;"><span style="font-size:9px;">by wang(本消息由redian_push自动推送！)</span></span></p>
+{"success":true,"message":"操作成功","code":null,"ticket":null,"jsessionid":null,"datas":{"newSummary":{"id":null,"createdBy":2974967,"createdOn":1676429695000,"modifiedBy":null,"modifiedOn":1682458816000,"isDeleted":null,"isKey":null,"depetId":null,"depetName":null,"noteCsId":62939769,"csId":null,"csName":null,"cSetName":null,"teacherId":null,"teacherName":null,"isShared":false,"noteUserId":null,"noteBook":null,"noteBookId":-1,"createdName":null,"noteRecord":null,"noteRecordList":null,"isShare":null,"shareName":null,"title":"早报","description":"<span>\n  <span>hi,超级管理员</span></span>","leAccount":null,"imageUrl":null,"noteType":2,"cSetId":null,"idType":5,"isWasted":false,"schoolId":10535,"noteCsIdList":null,"startTime":null,"endTime":null,"content":null,"isCancel":null,"subjectId":null,"recordCount":null,"noteUserList":null,"monthInfo":null,"subjectName":null,"userId":null,"bookName":null,"courseName":null,"createdOnDate":"2023-02-15 10:54","createdOnByDot":"2023.02.15","createdOnDateStr":"2023年02月15日 10:54","shareStr":"share","courseTime":1676429695000,"createdOnStr":"2023-02-15 10:54","createdOnFMStr":"2023/02/15","createdOnTimeStr":"2023年02月15日 10:54:55","modifiedOnDateBySlash":"2023/04/26","pinyinAbbr":"ZB","nowTimeStr":null,"modifiedOnStr":"2023-04-26 05:40","modifiedOnDateStr":"2023年04月26日 05:40","imageUrlStr":null}},"currentTime":1682458816230}
+添加笔记
+1682458816305
+新建笔记激励
+success_jsonpCallback({"success":true,"message":"操作成功","code":null,"ticket":null,"jsessionid":null,"datas":{"result":{"scoreChange":1,"lekeValChange":1,"expChange":0,"weekLimit":null,"weeklekeVal":null,"score":36,"stars":5,"scoreLimit":270,"ladderNum":7,"gradeNum":1,"gradeName":"帝王将相","nScore":null,"nStars":null,"nLadderNum":null,"nGradeNum":null,"nGradeName":null,"nScoreLimit":null,"starRaise":false,"gradeRaise":false,"ladderRaise":false,"starNum":10,"nStarNum":null,"scoreLimited":false,"lekeLimited":false}},"currentTime":1682458817581})
+1682458817760
+查看笔记激励
+success_jsonpCallback2({"success":true,"message":"操作成功","code":null,"ticket":null,"jsessionid":null,"datas":{"result":{"scoreChange":1,"lekeValChange":1,"expChange":0,"weekLimit":null,"weeklekeVal":null,"score":37,"stars":5,"scoreLimit":270,"ladderNum":7,"gradeNum":1,"gradeName":"帝王将相","nScore":null,"nStars":null,"nLadderNum":null,"nGradeNum":null,"nGradeName":null,"nScoreLimit":null,"starRaise":false,"gradeRaise":false,"ladderRaise":false,"starNum":10,"nStarNum":null,"scoreLimited":false,"lekeLimited":false}},"currentTime":1682458817952})
