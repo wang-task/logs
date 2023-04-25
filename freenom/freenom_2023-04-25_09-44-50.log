@@ -1,0 +1,17 @@
+----------- ip 信息 ---------
+{
+  "ip": "104.28.210.135",
+  "city": "Durham",
+  "region": "North Carolina",
+  "country": "US",
+  "loc": "35.9940,-78.8986",
+  "org": "AS13335 Cloudflare, Inc.",
+  "postal": "27701",
+  "timezone": "America/New_York",
+  "readme": "https://ipinfo.io/missingauth"
+} ---------- end ------------
+[2023-04-25 09:44:50] 由于你没有开启升级提醒功能，故无法在有新版本可用时第一时间收到通知。将 .env 文件中 NEW_VERSION_DETECTION 的值改为 1 即可重新开启相关功能。 
+[2023-04-25 09:44:50] 当前程序版本 v0.5.1 
+[2023-04-25 09:44:50] 共发现 1 个 freenom 账户 
+[2023-04-25 09:44:50] 开始处理第 1 个 freenom 账户：sunnywangzi1***@gmail.com [1/1] 
+[2023-04-25 09:44:54] sunnywangzi1***@gmail.com：执行成功，今次没有需要续期的域名。 
