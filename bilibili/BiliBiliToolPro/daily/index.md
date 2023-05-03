@@ -21,3 +21,4 @@
 | [BiliBiliToolPro-daily-2023-04-30_09-43-25.log](./BiliBiliToolPro-daily-2023-04-30_09-43-25.log) |
 | [BiliBiliToolPro-daily-2023-05-01_09-42-40.log](./BiliBiliToolPro-daily-2023-05-01_09-42-40.log) |
 | [BiliBiliToolPro-daily-2023-05-02_09-40-09.log](./BiliBiliToolPro-daily-2023-05-02_09-40-09.log) |
+| [BiliBiliToolPro-daily-2023-05-03_09-39-38.log](./BiliBiliToolPro-daily-2023-05-03_09-39-38.log) |
