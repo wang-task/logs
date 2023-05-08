@@ -1,0 +1,24 @@
+----------- ip 信息 ---------
+{
+  "ip": "104.28.237.111",
+  "city": "Phoenix",
+  "region": "Arizona",
+  "country": "US",
+  "loc": "33.4484,-112.0740",
+  "org": "AS13335 Cloudflare, Inc.",
+  "postal": "85001",
+  "timezone": "America/Phoenix",
+  "readme": "https://ipinfo.io/missingauth"
+} ---------- end ------------
+[2023-05-08 09:43:16] 由于你没有开启升级提醒功能，故无法在有新版本可用时第一时间收到通知。将 .env 文件中 NEW_VERSION_DETECTION 的值改为 1 即可重新开启相关功能。 
+[2023-05-08 09:43:16] 当前程序版本 v0.5.1 
+[2023-05-08 09:43:16] 共发现 1 个 freenom 账户 
+[2023-05-08 09:43:16] 开始处理第 1 个 freenom 账户：sunnywangzi1***@gmail.com [1/1] 
+[2023-05-08 09:43:40] 出错：获取域名状态页面出错，错误信息：Server error: `GET https://my.freenom.com/domains.php?a=renewals` resulted in a `504 Gateway Time-out` response:
+<html>
+504 Gateway Time-out
+<body>
+504 Gateway Time-out
+</body (truncated...)
+(Error code: 34520013) 
+[2023-05-08 09:43:41] Pushplus 消息发送失败：标题长度过长 
