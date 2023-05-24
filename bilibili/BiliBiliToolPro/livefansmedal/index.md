@@ -42,3 +42,4 @@
 | [BiliBiliToolPro-livefansmedal-2023-05-22_00-28-56.log](./BiliBiliToolPro-livefansmedal-2023-05-22_00-28-56.log) |
 | [BiliBiliToolPro-livefansmedal-2023-05-23_00-30-08.log](./BiliBiliToolPro-livefansmedal-2023-05-23_00-30-08.log) |
 | [BiliBiliToolPro-livefansmedal-2023-05-24_00-30-32.log](./BiliBiliToolPro-livefansmedal-2023-05-24_00-30-32.log) |
+| [BiliBiliToolPro-livefansmedal-2023-05-25_00-30-45.log](./BiliBiliToolPro-livefansmedal-2023-05-25_00-30-45.log) |
