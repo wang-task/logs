@@ -49,3 +49,4 @@
 | [BiliBiliToolPro-daily-2023-05-26_09-42-03.log](./BiliBiliToolPro-daily-2023-05-26_09-42-03.log) |
 | [BiliBiliToolPro-daily-2023-05-27_00-13-33.log](./BiliBiliToolPro-daily-2023-05-27_00-13-33.log) |
 | [BiliBiliToolPro-daily-2023-05-27_09-42-46.log](./BiliBiliToolPro-daily-2023-05-27_09-42-46.log) |
+| [BiliBiliToolPro-daily-2023-05-28_09-55-34.log](./BiliBiliToolPro-daily-2023-05-28_09-55-34.log) |
