@@ -1,0 +1,24 @@
+----------- ip 信息 ---------
+{
+  "ip": "104.28.233.73",
+  "city": "San Jose",
+  "region": "California",
+  "country": "US",
+  "loc": "37.3394,-121.8950",
+  "org": "AS13335 Cloudflare, Inc.",
+  "postal": "95103",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+} ---------- end ------------
+[2023-06-01 10:25:57] 由于你没有开启升级提醒功能，故无法在有新版本可用时第一时间收到通知。将 .env 文件中 NEW_VERSION_DETECTION 的值改为 1 即可重新开启相关功能。 
+[2023-06-01 10:25:57] 当前程序版本 v0.5.1 
+[2023-06-01 10:25:57] 共发现 1 个 freenom 账户 
+[2023-06-01 10:25:57] 开始处理第 1 个 freenom 账户：sunnywangzi1***@gmail.com [1/1] 
+[2023-06-01 10:25:58] 出错：登录 freenom 出错。错误信息：Client error: `POST https://my.freenom.com/dologin.php` resulted in a `405 Not Allowed` response:
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width (truncated...)
+(Error code: 34520002) 
+[2023-06-01 10:26:14] Pushplus 消息发送失败：标题长度过长 
