@@ -58,3 +58,4 @@
 | [BiliBiliToolPro-livefansmedal-2023-06-06_00-28-24.log](./BiliBiliToolPro-livefansmedal-2023-06-06_00-28-24.log) |
 | [BiliBiliToolPro-livefansmedal-2023-06-07_00-28-06.log](./BiliBiliToolPro-livefansmedal-2023-06-07_00-28-06.log) |
 | [BiliBiliToolPro-livefansmedal-2023-06-08_00-28-23.log](./BiliBiliToolPro-livefansmedal-2023-06-08_00-28-23.log) |
+| [BiliBiliToolPro-livefansmedal-2023-06-09_00-28-26.log](./BiliBiliToolPro-livefansmedal-2023-06-09_00-28-26.log) |
