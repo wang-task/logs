@@ -1,0 +1,18 @@
+----------- ip 信息 ---------
+{
+  "ip": "13.65.72.208",
+  "city": "San Antonio",
+  "region": "Texas",
+  "country": "US",
+  "loc": "29.4241,-98.4936",
+  "org": "AS8075 Microsoft Corporation",
+  "postal": "78205",
+  "timezone": "America/Chicago",
+  "readme": "https://ipinfo.io/missingauth"
+} ---------- end ------------
+[2023-06-18 10:11:14] 由于你没有开启升级提醒功能，故无法在有新版本可用时第一时间收到通知。将 .env 文件中 NEW_VERSION_DETECTION 的值改为 1 即可重新开启相关功能。 
+[2023-06-18 10:11:14] 当前程序版本 v0.5.1 
+[2023-06-18 10:11:14] 共发现 1 个 freenom 账户 
+[2023-06-18 10:11:14] 开始处理第 1 个 freenom 账户：sunnywangzi1***@gmail.com [1/1] 
+[2023-06-18 10:11:39] 出错：登录 freenom 出错。错误信息：cURL error 28: Failed to connect to my.freenom.com port 443 after 24788 ms: Connection timed out (see https://curl.haxx.se/libcurl/c/libcurl-errors.html) for https://my.freenom.com/dologin.php(Error code: 34520002) 
+[2023-06-18 10:11:40] Pushplus 消息发送失败：标题长度过长 
