@@ -69,3 +69,4 @@
 | [BiliBiliToolPro-livefansmedal-2023-06-17_00-27-37.log](./BiliBiliToolPro-livefansmedal-2023-06-17_00-27-37.log) |
 | [BiliBiliToolPro-livefansmedal-2023-06-18_00-26-23.log](./BiliBiliToolPro-livefansmedal-2023-06-18_00-26-23.log) |
 | [BiliBiliToolPro-livefansmedal-2023-06-19_00-26-55.log](./BiliBiliToolPro-livefansmedal-2023-06-19_00-26-55.log) |
+| [BiliBiliToolPro-livefansmedal-2023-06-20_00-27-49.log](./BiliBiliToolPro-livefansmedal-2023-06-20_00-27-49.log) |
