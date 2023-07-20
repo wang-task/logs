@@ -6,4 +6,4 @@
 | [BiliBili](./bilibili) | [![BiliBiliToolPro](https://img.shields.io/badge/BiliBiliToolPro-GitHub%20Action-brightgreen?style=flat-square)](https://https://github.com/wang-task/BiliBiliToolPro) |
 | [freenom](./freenom) | [![freenom](https://img.shields.io/badge/freenom-GitHub%20Action-brightgreen?style=flat-square)](https://https://github.com/wang-task/freenom) |
 
-[pan](https://pan.wtz1.ml)
+[pan](https://pan.wsee.eu.org)
