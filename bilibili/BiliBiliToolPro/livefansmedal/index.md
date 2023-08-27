@@ -138,3 +138,4 @@
 | [BiliBiliToolPro-livefansmedal-2023-08-25_00-27-17.log](./BiliBiliToolPro-livefansmedal-2023-08-25_00-27-17.log) |
 | [BiliBiliToolPro-livefansmedal-2023-08-26_00-26-53.log](./BiliBiliToolPro-livefansmedal-2023-08-26_00-26-53.log) |
 | [BiliBiliToolPro-livefansmedal-2023-08-27_00-25-34.log](./BiliBiliToolPro-livefansmedal-2023-08-27_00-25-34.log) |
+| [BiliBiliToolPro-livefansmedal-2023-08-28_00-24-55.log](./BiliBiliToolPro-livefansmedal-2023-08-28_00-24-55.log) |
