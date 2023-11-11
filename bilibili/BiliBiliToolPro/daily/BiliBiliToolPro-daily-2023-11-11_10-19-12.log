@@ -1,0 +1,192 @@
+----------- ip 信息 ---------
+{
+  "ip": "40.84.170.64",
+  "city": "San Antonio",
+  "region": "Texas",
+  "country": "US",
+  "loc": "29.4241,-98.4936",
+  "org": "AS8075 Microsoft Corporation",
+  "postal": "78205",
+  "timezone": "America/Chicago",
+  "readme": "https://ipinfo.io/missingauth"
+} ---------- end ------------
+  ____               ____    _   _____           _  
+ |  _ \ __ _ _   _  | __ ) _| |_|_   _|__   ___ | | 
+ | |_) / _` | | | | |  _ \(_) (_) | |/ _ \ / _ \| | 
+ |  _ < (_| | |_| | | |_) | | | | | | (_) | (_) | | 
+ |_| \_\__,_|\__, | |____/|_|_|_| |_|\___/ \___/|_| 
+             |___/                                  
+
+[10:19:29 INF] BiliBiliToolPro 开始运行...
+
+[10:19:29 INF] 【账号个数】3个
+
+[10:19:29 INF] 随机休眠2分钟
+
+[10:21:29 INF] 【目标任务】Daily
+[10:21:29 INF] ######### 账号 1 #########
+
+[10:21:29 INF] =====开始 每日任务 =====
+
+[10:21:29 INF] ---开始 Set Cookie ---
+[10:21:29 INF] Cookie完整，不需要Set Cookie
+[10:21:29 INF] -------------结束-------------
+
+[10:21:29 INF] ---开始 登录 ---
+[10:21:37 INF] 【用户名】sunxxxxxgzi
+[10:21:37 INF] 【会员类型】月度大会员
+[10:21:37 INF] 【会员状态】无/过期
+[10:21:37 INF] 【硬币余额】662.2
+[10:21:37 INF] 【距升级Lv6】227天（如每日做满65点经验）
+[10:21:37 INF] 登录成功，经验+5 √
+[10:21:37 INF] -----结束-----
+
+[10:21:43 INF] ---开始 观看、分享视频 ---
+[10:22:03 INF] 【随机视频】半年粉丝破百万，一开始我以为B站是“开车”网站...于是...
+[10:22:03 INF] 今天已经观看过了，不需要再看啦
+[10:22:17 INF] 视频分享成功，经验+5 √
+[10:22:17 INF] ----------结束----------
+
+[10:22:17 INF] ---开始 投币 ---
+[10:22:17 INF] 已配置为跳过投币任务
+[10:22:17 INF] -----结束-----
+
+[10:22:17 INF] ---开始 直播签到 ---
+[10:22:25 INF] 【签到结果】成功
+[10:22:25 INF] 【本次获取】3000点用户经验,2根辣条,再签到9天可以获得50根辣条
+[10:22:25 INF] -------结束-------
+
+[10:22:25 INF] ---开始 漫画签到 ---
+[10:22:29 INF] 【签到结果】成功
+[10:22:29 INF] -------结束-------
+
+[10:22:29 INF] ---开始 漫画阅读 ---
+[10:22:35 INF] 【漫画阅读】成功, 阅读漫画为：堀与宫村
+[10:22:35 INF] -------结束-------
+
+[10:22:35 INF] ---开始 银瓜子兑换硬币 ---
+[10:22:35 INF] 【目标兑换日期】11号
+[10:22:35 INF] 【今天】11号
+[10:22:41 INF] 【银瓜子余额】 650
+[10:22:41 INF] 【硬币余额】 662
+[10:22:41 INF] 【今日剩余兑换次数】 1
+[10:22:41 INF] 开始尝试兑换...
+[10:22:45 INF] 【兑换结果】失败
+[10:22:45 INF] 【原因】银瓜子余额不足
+[10:22:45 INF] ----------结束----------
+
+[10:22:45 INF] ---开始 领取大会员福利 ---
+[10:22:45 INF] 普通会员和月度大会员每月不赠送B币券，不需要领取权益喽
+[10:22:45 INF] ----------结束----------
+
+[10:22:45 INF] ---开始 领取大会员漫画权益 ---
+[10:22:45 INF] 不是会员，跳过
+[10:22:45 INF] ------------结束------------
+
+[10:22:45 INF] ---开始 B币券充电 ---
+[10:22:45 INF] 不是年度大会员，跳过
+[10:22:45 INF] --------结束--------
+
+[10:22:45 INF] =========结束=========
+
+[10:22:45 INF] ######### 账号 2 #########
+
+[10:22:45 INF] =====开始 每日任务 =====
+
+[10:22:45 INF] ---开始 Set Cookie ---
+[10:22:45 INF] Cookie完整，不需要Set Cookie
+[10:22:45 INF] -------------结束-------------
+
+[10:22:45 INF] ---开始 登录 ---
+[10:22:48 INF] 【用户名】bilixxxxxxxx1879
+[10:22:48 INF] 【会员类型】月度大会员
+[10:22:48 INF] 【会员状态】无/过期
+[10:22:48 INF] 【硬币余额】472
+[10:22:48 INF] 【距升级Lv5】60天（如每日做满65点经验）
+[10:22:48 INF] 登录成功，经验+5 √
+[10:22:48 INF] -----结束-----
+
+[10:22:55 INF] ---开始 观看、分享视频 ---
+[10:23:13 INF] 【随机视频】严厉表扬马克陌枫，支持正义使用力量药水
+[10:23:24 INF] 视频播放成功，已观看到第10秒，经验+5 √
+[10:23:28 INF] 视频分享成功，经验+5 √
+[10:23:28 INF] ----------结束----------
+
+[10:23:28 INF] ---开始 投币 ---
+[10:23:28 INF] 已配置为跳过投币任务
+[10:23:28 INF] -----结束-----
+
+[10:23:28 INF] ---开始 直播签到 ---
+[10:23:35 INF] 【签到结果】成功
+[10:23:35 INF] 【本次获取】3000点用户经验,2根辣条,再签到9天可以获得50根辣条
+[10:23:35 INF] -------结束-------
+
+[10:23:35 INF] ---开始 漫画签到 ---
+[10:23:39 INF] 【签到结果】成功
+[10:23:39 INF] -------结束-------
+
+[10:23:39 INF] ---开始 漫画阅读 ---
+[10:23:44 INF] 【漫画阅读】成功, 阅读漫画为：堀与宫村
+[10:23:44 INF] -------结束-------
+
+[10:23:44 INF] ---开始 银瓜子兑换硬币 ---
+[10:23:44 INF] 【目标兑换日期】11号
+[10:23:44 INF] 【今天】11号
+[10:23:49 INF] 【银瓜子余额】 422
+[10:23:49 INF] 【硬币余额】 472
+[10:23:49 INF] 【今日剩余兑换次数】 1
+[10:23:49 INF] 开始尝试兑换...
+[10:23:55 INF] 【兑换结果】失败
+[10:23:55 INF] 【原因】银瓜子余额不足
+[10:23:55 INF] ----------结束----------
+
+[10:23:55 INF] ---开始 领取大会员福利 ---
+[10:23:55 INF] 普通会员和月度大会员每月不赠送B币券，不需要领取权益喽
+[10:23:55 INF] ----------结束----------
+
+[10:23:55 INF] ---开始 领取大会员漫画权益 ---
+[10:23:55 INF] 不是会员，跳过
+[10:23:55 INF] ------------结束------------
+
+[10:23:55 INF] ---开始 B币券充电 ---
+[10:23:55 INF] 不是年度大会员，跳过
+[10:23:55 INF] --------结束--------
+
+[10:23:55 INF] =========结束=========
+
+[10:23:55 INF] ######### 账号 3 #########
+
+[10:23:55 INF] =====开始 每日任务 =====
+
+[10:23:55 INF] ---开始 Set Cookie ---
+[10:23:55 INF] Cookie完整，不需要Set Cookie
+[10:23:55 INF] -------------结束-------------
+
+[10:23:55 INF] ---开始 登录 ---
+[10:24:00 WRN] 登录异常，请检查Cookie是否错误或过期
+[10:24:00 ERR] 程序发生异常：登录失败，请检查Cookie
+[10:24:00 INF] -----结束-----
+
+[10:24:00 ERR] 程序发生异常：登录失败，请检查Cookie
+[10:24:00 INF] =========结束=========
+
+[10:24:00 WRN] 异常：System.Exception: 登录失败，请检查Cookie
+   at Ray.BiliBiliTool.Application.DailyTaskAppService.Login() in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/DailyTaskAppService.cs:line 127
+   at Ray.BiliBiliTool.Application.DailyTaskAppService.DoTaskAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/DailyTaskAppService.cs:line 78
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.DoTasksAsync(String[] tasks, CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 188
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.StartAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 76
+[10:24:00 INF] 
+
+========================
+
+ v2.0.1 开源 by https://github.com/RayWangQvQ/BiliBiliToolPro
+
+[10:24:00 INF] ·开始推送·Daily任务·
+2023-11-11T02:24:00.5635123Z 开始推送到:PushPlus
+2023-11-11T02:24:01.7030551Z Response status: OK.
+2023-11-11T02:24:01.7031064Z Response content: {"code":200,"msg":"请求成功","data":"814389ede75c4f57bb8903abfee7297f","count":null}.
+
+[10:24:01 INF] 运行环境：Development
+[10:24:01 INF] 应用目录：/home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/bin/Debug/net6.0/
+
+[10:24:01 INF] 运行结束
