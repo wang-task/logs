@@ -249,3 +249,4 @@
 | [BiliBiliToolPro-livefansmedal-2023-12-18_00-28-50.log](./BiliBiliToolPro-livefansmedal-2023-12-18_00-28-50.log) |
 | [BiliBiliToolPro-livefansmedal-2023-12-19_00-30-17.log](./BiliBiliToolPro-livefansmedal-2023-12-19_00-30-17.log) |
 | [BiliBiliToolPro-livefansmedal-2023-12-20_00-25-54.log](./BiliBiliToolPro-livefansmedal-2023-12-20_00-25-54.log) |
+| [BiliBiliToolPro-livefansmedal-2023-12-21_00-28-24.log](./BiliBiliToolPro-livefansmedal-2023-12-21_00-28-24.log) |
