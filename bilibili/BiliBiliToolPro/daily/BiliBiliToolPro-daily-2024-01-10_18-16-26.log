@@ -1,0 +1,168 @@
+----------- ip 信息 ---------
+{
+  "ip": "52.238.25.1",
+  "city": "San Jose",
+  "region": "California",
+  "country": "US",
+  "loc": "37.3394,-121.8950",
+  "org": "AS8075 Microsoft Corporation",
+  "postal": "95103",
+  "timezone": "America/Los_Angeles",
+  "readme": "https://ipinfo.io/missingauth"
+} ---------- end ------------
+  ____               ____    _   _____           _  
+ |  _ \ __ _ _   _  | __ ) _| |_|_   _|__   ___ | | 
+ | |_) / _` | | | | |  _ \(_) (_) | |/ _ \ / _ \| | 
+ |  _ < (_| | |_| | | |_) | | | | | | (_) | (_) | | 
+ |_| \_\__,_|\__, | |____/|_|_|_| |_|\___/ \___/|_| 
+             |___/                                  
+
+[18:16:36 INF] BiliBiliToolPro 开始运行...
+
+[18:16:36 INF] 【账号个数】3个
+
+[18:16:36 INF] 随机休眠1分钟
+
+[18:17:36 INF] 【目标任务】VipBigPoint
+[18:17:36 INF] ######### 账号 1 #########
+
+[18:17:36 INF] =====开始 大会员大积分 =====
+
+[18:17:36 INF] 大会员经验领取任务开始
+[18:17:42 INF] 大会员经验未兑换
+[18:17:48 INF] 领取成功，经验+10 √
+[18:17:48 INF] ---开始 测试Cookie ---
+[18:17:53 INF] 【用户名】sunxxxxxgzi
+[18:17:53 INF] 【会员类型】月度大会员
+[18:17:53 INF] 【会员状态】正常
+[18:17:53 INF] 【硬币余额】1099.2
+[18:17:53 INF] 【距升级Lv6】预计920天
+[18:17:53 INF] -----------结束-----------
+
+[18:17:58 INF] ------当前任务状态------
+[18:17:58 INF] 打卡：√
+[18:17:58 INF] -福利任务
+[18:17:58 INF] ---大会员福利大积分：√
+[18:17:58 INF] -体验任务
+[18:17:58 INF] ---浏览大会员权益页面：√
+[18:17:58 INF] -日常任务
+[18:17:58 INF] ---浏览装扮商城主页：X
+[18:17:58 INF] ---浏览会员购页面10秒：X
+[18:17:58 INF] ---购买指定会员购商品：X
+[18:17:58 INF] ---浏览追番频道页10秒：X
+[18:17:58 INF] ---观看任意正片内容：X
+[18:17:58 INF] ---购买单点付费影片：X
+[18:17:58 INF] ---购买指定装扮商品：X
+[18:17:58 INF] ------------------------
+
+[18:17:58 INF] ---开始 签到 ---
+[18:17:58 INF] 已完成，跳过
+[18:17:58 INF] 今日获得签到积分：5
+[18:17:58 INF] 累计签到1天
+[18:17:58 INF] -----结束-----
+
+[18:17:58 INF] ---开始 福利任务 ---
+[18:17:58 INF] 已完成，跳过
+[18:17:58 INF] -------结束-------
+
+[18:17:58 INF] ---开始 体验任务 ---
+[18:17:58 INF] 已完成，跳过
+[18:17:58 INF] -------结束-------
+
+[18:17:58 INF] ---开始 浏览追番频道页10秒 ---
+[18:17:58 INF] 开始完成任务
+[18:17:58 INF] 开始浏览
+[18:18:12 INF] 浏览完成
+[18:18:20 INF] 确认：True
+[18:18:20 INF] -------------结束-------------
+
+[18:18:20 INF] ---开始 浏览会员购页面10秒 ---
+[18:18:20 INF] 待实现...
+[18:18:20 INF] -------------结束-------------
+
+[18:18:20 INF] ---开始 观看任意正片内容 ---
+[18:18:20 INF] 开始领取任务
+[18:18:27 INF] 领取任务成功
+[18:18:27 INF] 开始完成任务
+[18:18:27 INF] 待开发...
+[18:18:27 INF] -----------结束-----------
+
+[18:18:27 INF] ---开始 购买单点付费影片（仅领取） ---
+[18:18:27 INF] 开始领取任务
+[18:18:33 INF] 领取任务成功
+[18:18:33 INF] ----------------结束----------------
+
+[18:18:33 INF] ---开始 购买指定会员购商品（仅领取） ---
+[18:18:33 INF] 开始领取任务
+[18:18:37 INF] 领取任务成功
+[18:18:37 INF] -----------------结束-----------------
+
+[18:18:37 INF] ------当前任务状态------
+[18:18:37 INF] 打卡：√
+[18:18:37 INF] -福利任务
+[18:18:37 INF] ---大会员福利大积分：√
+[18:18:37 INF] -体验任务
+[18:18:37 INF] ---浏览大会员权益页面：√
+[18:18:37 INF] -日常任务
+[18:18:37 INF] ---浏览装扮商城主页：X
+[18:18:37 INF] ---浏览会员购页面10秒：X
+[18:18:37 INF] ---购买指定会员购商品：X
+[18:18:37 INF] ---浏览追番频道页10秒：√
+[18:18:37 INF] ---观看任意正片内容：X
+[18:18:37 INF] ---购买单点付费影片：X
+[18:18:37 INF] ---购买指定装扮商品：X
+[18:18:37 INF] ------------------------
+
+[18:18:37 INF] ===========结束===========
+
+[18:18:37 INF] ######### 账号 2 #########
+
+[18:18:37 INF] =====开始 大会员大积分 =====
+
+[18:18:37 INF] 大会员经验领取任务开始
+[18:18:44 INF] 大会员经验未兑换
+[18:18:47 INF] 领取成功，经验+10 √
+[18:18:47 INF] ---开始 测试Cookie ---
+[18:18:54 INF] 【用户名】bilixxxxxxxx1879
+[18:18:54 INF] 【会员类型】月度大会员
+[18:18:54 INF] 【会员状态】无/过期
+[18:18:54 INF] 【硬币余额】534
+[18:18:54 INF] 【距升级Lv5】预计200天
+[18:18:54 INF] -----------结束-----------
+
+[18:18:54 INF] 当前不是大会员或已过期，跳过任务
+[18:18:54 INF] ===========结束===========
+
+[18:18:54 INF] ######### 账号 3 #########
+
+[18:18:54 INF] =====开始 大会员大积分 =====
+
+[18:18:54 INF] 大会员经验领取任务开始
+[18:18:59 INF] ---开始 测试Cookie ---
+[18:19:03 WRN] 登录异常，请检查Cookie是否错误或过期
+[18:19:03 ERR] 程序发生异常：登录失败，请检查Cookie
+[18:19:03 INF] -----------结束-----------
+
+[18:19:03 ERR] 程序发生异常：登录失败，请检查Cookie
+[18:19:03 INF] ===========结束===========
+
+[18:19:03 WRN] 异常：System.Exception: 登录失败，请检查Cookie
+   at Ray.BiliBiliTool.Application.VipBigPointAppService.GetUserInfo() in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/VipBigPointAppService.cs:line 150
+   at Ray.BiliBiliTool.Application.VipBigPointAppService.DoTaskAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/VipBigPointAppService.cs:line 98
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.DoTasksAsync(String[] tasks, CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 194
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.StartAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 76
+[18:19:03 INF] 
+
+========================
+
+ v2.0.2 开源 by https://github.com/RayWangQvQ/BiliBiliToolPro
+
+[18:19:03 INF] ·开始推送·VipBigPoint任务·
+2024-01-10T10:19:03.4392435Z 开始推送到:PushPlus
+2024-01-10T10:19:04.3446436Z Response status: OK.
+2024-01-10T10:19:04.3446930Z Response content: {"code":200,"msg":"请求成功","data":"84b1237940ec4009b147f7884c9d0fbe","count":null}.
+
+[18:19:04 INF] 运行环境：Development
+[18:19:04 INF] 应用目录：/home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/bin/Debug/net6.0/
+
+[18:19:04 INF] 运行结束
