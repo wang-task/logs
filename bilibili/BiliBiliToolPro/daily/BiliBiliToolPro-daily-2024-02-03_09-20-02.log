@@ -1,0 +1,187 @@
+----------- ip 信息 ---------
+{
+  "ip": "20.171.78.147",
+  "city": "Phoenix",
+  "region": "Arizona",
+  "country": "US",
+  "loc": "33.4484,-112.0740",
+  "org": "AS8075 Microsoft Corporation",
+  "postal": "85001",
+  "timezone": "America/Phoenix",
+  "readme": "https://ipinfo.io/missingauth"
+} ---------- end ------------
+  ____               ____    _   _____           _  
+ |  _ \ __ _ _   _  | __ ) _| |_|_   _|__   ___ | | 
+ | |_) / _` | | | | |  _ \(_) (_) | |/ _ \ / _ \| | 
+ |  _ < (_| | |_| | | |_) | | | | | | (_) | (_) | | 
+ |_| \_\__,_|\__, | |____/|_|_|_| |_|\___/ \___/|_| 
+             |___/                                  
+
+[09:20:13 INF] BiliBiliToolPro 开始运行...
+
+[09:20:13 INF] 【账号个数】3个
+
+[09:20:13 INF] 随机休眠2分钟
+
+[09:22:13 INF] 【目标任务】Daily
+[09:22:13 INF] ######### 账号 1 #########
+
+[09:22:13 INF] =====开始 每日任务 =====
+
+[09:22:13 INF] ---开始 Set Cookie ---
+[09:22:13 INF] Cookie完整，不需要Set Cookie
+[09:22:13 INF] -------------结束-------------
+
+[09:22:13 INF] ---开始 登录 ---
+[09:22:21 WRN] 登录异常，请检查Cookie是否错误或过期
+[09:22:21 ERR] 程序发生异常：登录失败，请检查Cookie
+[09:22:21 INF] -----结束-----
+
+[09:22:21 ERR] 程序发生异常：登录失败，请检查Cookie
+[09:22:21 INF] =========结束=========
+
+[09:22:21 WRN] 异常：System.Exception: 登录失败，请检查Cookie
+   at Ray.BiliBiliTool.Application.DailyTaskAppService.Login() in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/DailyTaskAppService.cs:line 134
+   at Ray.BiliBiliTool.Application.DailyTaskAppService.DoTaskAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/DailyTaskAppService.cs:line 81
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.DoTasksAsync(String[] tasks, CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 194
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.StartAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 76
+[09:22:21 INF] ######### 账号 2 #########
+
+[09:22:21 INF] =====开始 每日任务 =====
+
+[09:22:21 INF] ---开始 Set Cookie ---
+[09:22:21 INF] Cookie完整，不需要Set Cookie
+[09:22:21 INF] -------------结束-------------
+
+[09:22:21 INF] ---开始 登录 ---
+[09:22:25 WRN] 登录异常，请检查Cookie是否错误或过期
+[09:22:25 ERR] 程序发生异常：登录失败，请检查Cookie
+[09:22:25 INF] -----结束-----
+
+[09:22:25 ERR] 程序发生异常：登录失败，请检查Cookie
+[09:22:25 INF] =========结束=========
+
+[09:22:25 WRN] 异常：System.Exception: 登录失败，请检查Cookie
+   at Ray.BiliBiliTool.Application.DailyTaskAppService.Login() in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/DailyTaskAppService.cs:line 134
+   at Ray.BiliBiliTool.Application.DailyTaskAppService.DoTaskAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/DailyTaskAppService.cs:line 81
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.DoTasksAsync(String[] tasks, CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 194
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.StartAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 76
+[09:22:25 INF] ######### 账号 3 #########
+
+[09:22:25 INF] =====开始 每日任务 =====
+
+[09:22:25 INF] ---开始 Set Cookie ---
+[09:22:25 INF] Cookie完整，不需要Set Cookie
+[09:22:25 INF] -------------结束-------------
+
+[09:22:25 INF] ---开始 登录 ---
+[09:22:31 WRN] 登录异常，请检查Cookie是否错误或过期
+[09:22:31 ERR] 程序发生异常：登录失败，请检查Cookie
+[09:22:31 INF] -----结束-----
+
+[09:22:31 ERR] 程序发生异常：登录失败，请检查Cookie
+[09:22:31 INF] =========结束=========
+
+[09:22:31 WRN] 异常：System.Exception: 登录失败，请检查Cookie
+   at Ray.BiliBiliTool.Application.DailyTaskAppService.Login() in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/DailyTaskAppService.cs:line 134
+   at Ray.BiliBiliTool.Application.DailyTaskAppService.DoTaskAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/DailyTaskAppService.cs:line 81
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.DoTasksAsync(String[] tasks, CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 194
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.StartAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 76
+[09:22:31 INF] 
+
+========================
+
+ v2.0.2 开源 by https://github.com/RayWangQvQ/BiliBiliToolPro
+
+[09:22:31 INF] ·开始推送·Daily任务·
+2024-02-03T01:22:31.7891765Z 开始推送到:PushPlus
+2024-02-03T01:22:32.6963211Z Response status: OK.
+2024-02-03T01:22:32.6963826Z Response content: {"code":200,"msg":"请求成功","data":"435c50d4f8594ef6b432ab3af8918bf1","count":null}.
+
+[09:22:32 INF] 运行环境：Development
+[09:22:32 INF] 应用目录：/home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/bin/Debug/net6.0/
+
+[09:22:32 INF] 运行结束
+  ____               ____    _   _____           _  
+ |  _ \ __ _ _   _  | __ ) _| |_|_   _|__   ___ | | 
+ | |_) / _` | | | | |  _ \(_) (_) | |/ _ \ / _ \| | 
+ |  _ < (_| | |_| | | |_) | | | | | | (_) | (_) | | 
+ |_| \_\__,_|\__, | |____/|_|_|_| |_|\___/ \___/|_| 
+             |___/                                  
+
+[09:22:35 INF] BiliBiliToolPro 开始运行...
+
+[09:22:35 INF] 【账号个数】3个
+
+[09:22:35 INF] 随机休眠3分钟
+
+[09:25:35 INF] 【目标任务】VipBigPoint
+[09:25:35 INF] ######### 账号 1 #########
+
+[09:25:35 INF] =====开始 大会员大积分 =====
+
+[09:25:35 INF] 大会员经验领取任务开始
+[09:25:40 INF] ---开始 测试Cookie ---
+[09:25:44 WRN] 登录异常，请检查Cookie是否错误或过期
+[09:25:44 ERR] 程序发生异常：登录失败，请检查Cookie
+[09:25:44 INF] -----------结束-----------
+
+[09:25:44 ERR] 程序发生异常：登录失败，请检查Cookie
+[09:25:44 INF] ===========结束===========
+
+[09:25:44 WRN] 异常：System.Exception: 登录失败，请检查Cookie
+   at Ray.BiliBiliTool.Application.VipBigPointAppService.GetUserInfo() in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/VipBigPointAppService.cs:line 150
+   at Ray.BiliBiliTool.Application.VipBigPointAppService.DoTaskAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/VipBigPointAppService.cs:line 98
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.DoTasksAsync(String[] tasks, CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 194
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.StartAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 76
+[09:25:44 INF] ######### 账号 2 #########
+
+[09:25:44 INF] =====开始 大会员大积分 =====
+
+[09:25:44 INF] 大会员经验领取任务开始
+[09:25:48 INF] ---开始 测试Cookie ---
+[09:25:55 WRN] 登录异常，请检查Cookie是否错误或过期
+[09:25:55 ERR] 程序发生异常：登录失败，请检查Cookie
+[09:25:55 INF] -----------结束-----------
+
+[09:25:55 ERR] 程序发生异常：登录失败，请检查Cookie
+[09:25:55 INF] ===========结束===========
+
+[09:25:55 WRN] 异常：System.Exception: 登录失败，请检查Cookie
+   at Ray.BiliBiliTool.Application.VipBigPointAppService.GetUserInfo() in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/VipBigPointAppService.cs:line 150
+   at Ray.BiliBiliTool.Application.VipBigPointAppService.DoTaskAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/VipBigPointAppService.cs:line 98
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.DoTasksAsync(String[] tasks, CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 194
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.StartAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 76
+[09:25:55 INF] ######### 账号 3 #########
+
+[09:25:55 INF] =====开始 大会员大积分 =====
+
+[09:25:55 INF] 大会员经验领取任务开始
+[09:25:59 INF] ---开始 测试Cookie ---
+[09:26:05 WRN] 登录异常，请检查Cookie是否错误或过期
+[09:26:05 ERR] 程序发生异常：登录失败，请检查Cookie
+[09:26:05 INF] -----------结束-----------
+
+[09:26:05 ERR] 程序发生异常：登录失败，请检查Cookie
+[09:26:05 INF] ===========结束===========
+
+[09:26:05 WRN] 异常：System.Exception: 登录失败，请检查Cookie
+   at Ray.BiliBiliTool.Application.VipBigPointAppService.GetUserInfo() in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/VipBigPointAppService.cs:line 150
+   at Ray.BiliBiliTool.Application.VipBigPointAppService.DoTaskAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Application/VipBigPointAppService.cs:line 98
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.DoTasksAsync(String[] tasks, CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 194
+   at Ray.BiliBiliTool.Console.BiliBiliToolHostedService.StartAsync(CancellationToken cancellationToken) in /home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/BiliBiliToolHostedService.cs:line 76
+[09:26:05 INF] 
+
+========================
+
+ v2.0.2 开源 by https://github.com/RayWangQvQ/BiliBiliToolPro
+
+[09:26:05 INF] ·开始推送·VipBigPoint任务·
+2024-02-03T01:26:05.9034300Z 开始推送到:PushPlus
+2024-02-03T01:26:06.5836300Z Response status: OK.
+2024-02-03T01:26:06.5836820Z Response content: {"code":200,"msg":"请求成功","data":"e880f10bcc4f47d4a30ac8b7f2dfd8f0","count":null}.
+
+[09:26:06 INF] 运行环境：Development
+[09:26:06 INF] 应用目录：/home/runner/work/BiliBiliToolPro/BiliBiliToolPro/src/Ray.BiliBiliTool.Console/bin/Debug/net6.0/
+
+[09:26:06 INF] 运行结束
